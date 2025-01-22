@@ -16,7 +16,7 @@ namespace task5
 
             public void start()
             {
-                Console.WriteLine($"Vehicle is starting.{Brand}{model}");
+                Console.WriteLine($"Vehicle is starting.{Brand } { model}");
             }
         }
         public class Derived : Vechils
@@ -30,8 +30,8 @@ namespace task5
         static void Main(string[] args)
         {
             Derived s = new Derived();
-            s.model = 1;
-            s.Brand = "BMW";
+            s.model = 2025;
+            s.Brand = " BMW";
             s.start();
         }
     }
