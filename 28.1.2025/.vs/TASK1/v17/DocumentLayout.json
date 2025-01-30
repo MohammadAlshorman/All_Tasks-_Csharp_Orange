@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\editbook.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\editbook.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\editroom.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\editroom.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\viewrooms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\viewrooms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\addbook.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\addbook.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\addroom.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\addroom.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\admindash.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\admindash.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\rooms.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\rooms.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\userdash.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\userdash.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\img1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\img1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\meeting.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\meeting.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\viewrooms.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\viewrooms.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\viewbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\viewbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\userdash.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\userdash.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\admindash.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\admindash.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\admindash.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\admindash.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\book.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\book.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\books.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\books.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\reset.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\reset.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\userdash.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\userdash.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\img2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\img2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\img3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\img3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\regester.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\regester.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|c:\\users\\orange\\desktop\\csharp-asp-master\\task1\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F54A7DB4-5719-4EAB-9595-164502DF9276}|TASK1\\TASK1.csproj|solutionrelative:task1\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "editbook.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\editbook.aspx",
+              "RelativeDocumentMoniker": "TASK1\\editbook.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\editbook.aspx",
+              "RelativeToolTip": "TASK1\\editbook.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T02:55:04.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\login.aspx.cs",
+              "RelativeDocumentMoniker": "TASK1\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\login.aspx.cs",
+              "RelativeToolTip": "TASK1\\login.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:42:55.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "editRoom.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\editRoom.aspx",
+              "RelativeDocumentMoniker": "TASK1\\editRoom.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\editRoom.aspx",
+              "RelativeToolTip": "TASK1\\editRoom.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T02:42:19.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "addBook.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\addBook.aspx.cs",
+              "RelativeDocumentMoniker": "TASK1\\addBook.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\addBook.aspx.cs",
+              "RelativeToolTip": "TASK1\\addBook.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:40:15.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "rooms.txt",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\rooms.txt",
+              "RelativeDocumentMoniker": "TASK1\\rooms.txt",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\rooms.txt",
+              "RelativeToolTip": "TASK1\\rooms.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-30T02:40:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "addRoom.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\addRoom.aspx.cs",
+              "RelativeDocumentMoniker": "TASK1\\addRoom.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\addRoom.aspx.cs",
+              "RelativeToolTip": "TASK1\\addRoom.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:39:51.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admindash.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\admindash.aspx.cs",
+              "RelativeDocumentMoniker": "TASK1\\admindash.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\admindash.aspx.cs",
+              "RelativeToolTip": "TASK1\\admindash.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:38:02.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "viewRooms.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\viewRooms.aspx",
+              "RelativeDocumentMoniker": "TASK1\\viewRooms.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\viewRooms.aspx",
+              "RelativeToolTip": "TASK1\\viewRooms.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T02:08:24.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HOME.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\HOME.aspx",
+              "RelativeDocumentMoniker": "TASK1\\HOME.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\HOME.aspx",
+              "RelativeToolTip": "TASK1\\HOME.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T02:33:45.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\login.aspx",
+              "RelativeDocumentMoniker": "TASK1\\login.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\login.aspx",
+              "RelativeToolTip": "TASK1\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T02:34:37.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "userDash.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\userDash.aspx.cs",
+              "RelativeDocumentMoniker": "TASK1\\userDash.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\userDash.aspx.cs",
+              "RelativeToolTip": "TASK1\\userDash.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:39:01.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "img1.jpg -  [English (United States)] - Bitmap [960x537, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\img1.jpg",
+              "RelativeDocumentMoniker": "TASK1\\img1.jpg",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\img1.jpg -  [English (United States)] - Bitmap [960x537, 24 bit, JPG]",
+              "RelativeToolTip": "TASK1\\img1.jpg -  [English (United States)] - Bitmap [960x537, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-30T02:33:33.279Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [960x537, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "meeting.jpg -  [English (United States)] - Bitmap [1024x538, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\meeting.jpg",
+              "RelativeDocumentMoniker": "TASK1\\meeting.jpg",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\meeting.jpg -  [English (United States)] - Bitmap [1024x538, 24 bit, JPG]",
+              "RelativeToolTip": "TASK1\\meeting.jpg -  [English (United States)] - Bitmap [1024x538, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-30T02:39:32.674Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1024x538, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "viewRooms.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\viewRooms.aspx.cs",
+              "RelativeDocumentMoniker": "TASK1\\viewRooms.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\viewRooms.aspx.cs",
+              "RelativeToolTip": "TASK1\\viewRooms.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:39:14.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "viewBooks.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\viewBooks.aspx",
+              "RelativeDocumentMoniker": "TASK1\\viewBooks.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\viewBooks.aspx",
+              "RelativeToolTip": "TASK1\\viewBooks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T02:39:08.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "userDash.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\userDash.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TASK1\\userDash.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\userDash.aspx.designer.cs",
+              "RelativeToolTip": "TASK1\\userDash.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:39:06.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "admindash.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\admindash.aspx",
+              "RelativeDocumentMoniker": "TASK1\\admindash.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\admindash.aspx",
+              "RelativeToolTip": "TASK1\\admindash.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T02:37:51.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "admindash.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\admindash.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TASK1\\admindash.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\admindash.aspx.designer.cs",
+              "RelativeToolTip": "TASK1\\admindash.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:38:01.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "books.txt",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\books.txt",
+              "RelativeDocumentMoniker": "TASK1\\books.txt",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\books.txt",
+              "RelativeToolTip": "TASK1\\books.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-30T02:37:56.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "reset.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\reset.aspx.cs",
+              "RelativeDocumentMoniker": "TASK1\\reset.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\reset.aspx.cs",
+              "RelativeToolTip": "TASK1\\reset.aspx.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:37:32.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "userDash.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\userDash.aspx",
+              "RelativeDocumentMoniker": "TASK1\\userDash.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\userDash.aspx",
+              "RelativeToolTip": "TASK1\\userDash.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T02:37:17.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "book.jpg -  [English (United States)] - Bitmap [714x400, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\book.jpg",
+              "RelativeDocumentMoniker": "TASK1\\book.jpg",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\book.jpg -  [English (United States)] - Bitmap [714x400, 24 bit, JPG]",
+              "RelativeToolTip": "TASK1\\book.jpg -  [English (United States)] - Bitmap [714x400, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-30T02:33:34.997Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [714x400, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "img2.jpg -  [English (United States)] - Bitmap [275x183, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\img2.jpg",
+              "RelativeDocumentMoniker": "TASK1\\img2.jpg",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\img2.jpg -  [English (United States)] - Bitmap [275x183, 24 bit, JPG]",
+              "RelativeToolTip": "TASK1\\img2.jpg -  [English (United States)] - Bitmap [275x183, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-30T02:33:31.476Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [275x183, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "img3.jpg -  [English (United States)] - Bitmap [850x476, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\img3.jpg",
+              "RelativeDocumentMoniker": "TASK1\\img3.jpg",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\img3.jpg -  [English (United States)] - Bitmap [850x476, 24 bit, JPG]",
+              "RelativeToolTip": "TASK1\\img3.jpg -  [English (United States)] - Bitmap [850x476, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-30T02:33:29.854Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [850x476, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "regester.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\regester.aspx",
+              "RelativeDocumentMoniker": "TASK1\\regester.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\regester.aspx",
+              "RelativeToolTip": "TASK1\\regester.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T02:10:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "profile.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\profile.aspx",
+              "RelativeDocumentMoniker": "TASK1\\profile.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp-ASP-master\\TASK1\\profile.aspx",
+              "RelativeToolTip": "TASK1\\profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T02:08:27.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
